@@ -1,6 +1,6 @@
 {
-  "name": "expensetracker",
-  "homepage": "https://myusername.github.io/expensetracker",
+  "name": "reactapp",
+  "homepage": "https://myusername.github.io/reactapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
